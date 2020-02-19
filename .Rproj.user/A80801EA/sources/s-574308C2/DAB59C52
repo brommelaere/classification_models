@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582073377494.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3740803548",
+    "id" : "DAB59C52",
+    "lastKnownWriteTime" : 1582073399,
+    "last_content_update" : 1582073399034,
+    "path" : "~/Desktop/Data Science/classification_models/06 Programs/measure_performance.R",
+    "project_path" : "06 Programs/measure_performance.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
