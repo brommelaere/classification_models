@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3740803548",
+    "hash" : "0",
     "id" : "DAB59C52",
-    "lastKnownWriteTime" : 1582073399,
-    "last_content_update" : 1582073399034,
+    "lastKnownWriteTime" : 1582140711,
+    "last_content_update" : 1582140711461,
     "path" : "~/Desktop/Data Science/classification_models/06 Programs/measure_performance.R",
     "project_path" : "06 Programs/measure_performance.R",
     "properties" : {
+        "cursorPosition" : "99,10",
+        "scrollLine" : "88"
     },
     "relative_order" : 2,
     "source_on_save" : false,
